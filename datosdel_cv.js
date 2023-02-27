@@ -4,9 +4,9 @@ document.getElementById("datos_personales").addEventListener("mousemove", functi
     document.getElementById("1").innerHTML = "Edad: 49 años";
     document.getElementById("2").innerHTML = "Fecha de nacimiento:8/12/1973";
     document.getElementById("3").innerHTML = "Nacionalidad: argentina";
-    document.getElementById("1").style.display="inline;";
-    document.getElementById("2").style.display="inline;";
-    document.getElementById("3").style.display="inline;";
+    document.getElementById("1").style.display="inline";
+    document.getElementById("2").style.display="inline";
+    document.getElementById("3").style.display="inline";
   });
 
 document.getElementById("estudios").addEventListener("mousemove", function () {
